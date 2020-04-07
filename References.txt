@@ -1,0 +1,22 @@
+SIR 推荐资料
+1. https://zhuanlan.zhihu.com/p/104645873
+这个我觉得写的非常的好，但是SIR模型过于简单，想增加模型的复杂性，比如SIER模型. 你看了过后再商量怎么弄
+
+2. https://blog.csdn.net/qq_41856733/article/details/104538500
+-------------------------------------------------------------------------------------------------------------------------------------
+SEIR 推荐材料
+1. https://zhuanlan.zhihu.com/p/104268573 
+SEIR简单的介绍，他用matlab实现的，把里面的参数按照经验都设置好了，并没有用数据去估计里面这些参数，没有SIR那个有水平
+
+2.http://www.kitgram.cn/downloads/something/SEIDC_19nCoV.pdf 
+推荐这一篇论文的模型，很复杂，我估计预测效果也要比SIR好很多，但是还是老问题参数直接设置好了，没有数据去训练这个参数
+这个是他的知乎链接：https://www.zhihu.com/question/367981353/answer/1015524027
+-------------------------------------------------------------------------------------------------------------------------------------
+RNN_LSTM 推荐材料
+这个模型不知道能不能用来干这个，昨天试了一下，效果出奇的差, 这个得再想想问题出在哪，放材料了。
+1. https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+2. https://zhuanlan.zhihu.com/p/123211148
+
+3. https://zhuanlan.zhihu.com/p/113339145 
+这篇直接用LSTM做新冠预测的，但是没看懂码，研究研究。
