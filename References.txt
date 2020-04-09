@@ -20,3 +20,9 @@ RNN_LSTM 推荐材料
 
 3. https://zhuanlan.zhihu.com/p/113339145 
 这篇直接用LSTM做新冠预测的，但是没看懂码，研究研究。
+---------------------------------------------------------------------------------------------------------------------------------------
+SIR参数估计
+1. https://kingaa.github.io/short-course/parest/parest.html#fitting-sir-to-an-epidemic-curve-using-likelihood
+2. https://github.com/epimath/param-estimation-SIR.git
+git clone 那个就可以了 代码全
+
